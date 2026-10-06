@@ -1,16 +1,16 @@
-# 📱 Mobile Sales Analytics Dashboard
+#  Mobile Sales Analytics Dashboard
 
 An interactive **Power BI dashboard** designed to analyze mobile sales performance, transactions, customer ratings, payment methods, brands, mobile models, and sales trends.
 
 
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Mobile Sales Analytics Dashboard](Dashboard%20Preview.png)
 
 
 
-## 🎯 Project Overview
+##  Project Overview
 
 The **Mobile Sales Analytics Dashboard** transforms mobile sales data into an interactive and visually appealing business intelligence dashboard.
 
@@ -20,7 +20,7 @@ The dashboard allows users to interact with the data using multiple filters and 
 
 
 
-## 📌 Key Performance Indicators
+##  Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
@@ -31,7 +31,7 @@ The dashboard allows users to interact with the data using multiple filters and 
 
 
 
-## 🔍 Dashboard Features
+##  Dashboard Features
 
 ### 1. Sales by City
 An interactive map visual showing the geographic distribution of mobile sales across different cities.
@@ -65,21 +65,21 @@ A trend visualization showing sales performance across different days of the wee
 
 
 
-## 🎛️ Interactive Filters
+##  Interactive Filters
 
 The dashboard includes slicers for:
 
-- 📱 Mobile Model
-- 💳 Payment Method
-- 🏷️ Brand
-- 📅 Day Name
-- 📆 Month
+-  Mobile Model
+-  Payment Method
+-  Brand
+-  Day Name
+-  Month
 
 These filters allow users to dynamically explore different aspects of the sales data.
 
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Power BI**
 - **Microsoft Excel**
@@ -89,7 +89,7 @@ These filters allow users to dynamically explore different aspects of the sales 
 
 
 
-## 🎨 Dashboard Design
+##  Dashboard Design
 
 The dashboard was designed with a clean and modern **blue-and-white theme**.
 
@@ -106,7 +106,7 @@ Key design elements include:
 
 
 
-## 💡 Business Insights
+##  Business Insights
 
 This dashboard can help identify:
 
@@ -121,7 +121,7 @@ This dashboard can help identify:
 
 
 
-## 📂 Project Files
+##  Project Files
 
 | File | Description |
 |---|---|
@@ -131,7 +131,7 @@ This dashboard can help identify:
 | `README.md` | Project documentation |
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file from this repository.
 2. Open it using **Microsoft Power BI Desktop**.
@@ -141,7 +141,7 @@ This dashboard can help identify:
 
 
 
-## 📈 Project Purpose
+##  Project Purpose
 
 This project demonstrates practical skills in:
 
@@ -154,7 +154,7 @@ This project demonstrates practical skills in:
 - KPI development
 - Business insights generation
 
-## 👤 Author
+##  Author
 
 **Shibran06**
 
