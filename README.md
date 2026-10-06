@@ -160,6 +160,3 @@ This project demonstrates practical skills in:
 
 Power BI | Data Analytics | Business Intelligence
 
----
-
-⭐ If you found this project useful, consider giving the repository a star!
